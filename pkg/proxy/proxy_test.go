@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Aetherx86/Pyx/pkg/gatekeeper"
-	"github.com/Aetherx86/Pyx/pkg/protocol"
+	"github.com/omakasekim/Pyx/pkg/gatekeeper"
+	"github.com/omakasekim/Pyx/pkg/protocol"
 )
 
 // mockPostgresBackend simulates a PostgreSQL 3.0 server supporting Startup, CancelRequest,

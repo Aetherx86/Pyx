@@ -11,8 +11,8 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/Aetherx86/Pyx/pkg/gatekeeper"
-	"github.com/Aetherx86/Pyx/pkg/proxy"
+	"github.com/omakasekim/Pyx/pkg/gatekeeper"
+	"github.com/omakasekim/Pyx/pkg/proxy"
 )
 
 const Version = "0.2.0"

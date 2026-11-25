@@ -50,7 +50,7 @@ PostgreSQL 데이터베이스 인스턴스 (:5432)
 Go 1.23 이상이 필요합니다:
 
 ```bash
-git clone https://github.com/Aetherx86/Pyx.git
+git clone https://github.com/omakasekim/Pyx.git
 cd Pyx
 go build -o bin/pyx ./cmd/pyx
 ```

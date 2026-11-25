@@ -1,3 +1,3 @@
-module github.com/Aetherx86/Pyx
+module github.com/omakasekim/Pyx
 
 go 1.23

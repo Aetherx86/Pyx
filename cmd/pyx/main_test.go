@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Aetherx86/Pyx/pkg/gatekeeper"
+	"github.com/omakasekim/Pyx/pkg/gatekeeper"
 )
 
 func TestCLIVersion(t *testing.T) {

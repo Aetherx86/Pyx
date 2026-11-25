@@ -11,7 +11,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Aetherx86/Pyx/pkg/gatekeeper"
+	"github.com/omakasekim/Pyx/pkg/gatekeeper"
 )
 
 const defaultLatencyWindow = 4096
